@@ -1,3 +1,5 @@
+/venv/
+/APIrest-4DB/
 venv/
 __pycache__/
 *.pyc
