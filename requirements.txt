@@ -1,0 +1,5 @@
+# Librerias a utilizar en el proyecto 
+fastapi==0.98.0
+uvicorn==0.23.0
+sqlalchemy==2.0.20
+pymysql==1.0.3
